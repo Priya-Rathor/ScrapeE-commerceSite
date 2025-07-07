@@ -2,12 +2,10 @@
 
 A full-stack simulation of a modern e-commerce storefront powered by real-time API scraping using Python + a sleek front-end interface.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python" />
-  <img src="https://img.shields.io/badge/API-FakeStoreAPI-29a19c?logo=web" />
-  <img src="https://img.shields.io/badge/Data-Scraping-orange?logo=json" />
-  <img src="https://img.shields.io/badge/Frontend-HTML/CSS/JS-yellowgreen?logo=html5" />
-</p>
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![API](https://img.shields.io/badge/API-FakeStoreAPI-29a19c?logo=web)
+![Scraping](https://img.shields.io/badge/Data-Scraping-orange?logo=json)
+![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-yellowgreen?logo=html5)
 
 ---
 
