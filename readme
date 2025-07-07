@@ -1,4 +1,4 @@
-#🛍️ FakeStore E-commerce Scraper & Frontend Clone
+#🛍️ MYStore E-commerce Scraper & Frontend Clone
 
 This is a full-stack portfolio project that demonstrates how to **scrape live e-commerce data** from the [FakeStoreAPI](https://fakestoreapi.com/) using Python, then display it in a **modern, responsive frontend** built with HTML, CSS, and vanilla JavaScript. It features **live filtering**, **search**, **category browsing**, and **metadata summary** — perfect for learning or demos.
 
